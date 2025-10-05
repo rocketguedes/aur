@@ -1,0 +1,6 @@
+[kretro]
+source = 'gitlab'
+gitlab = 'games/kretro'
+host = 'invent.kde.org'
+use_max_tag = true
+prefix = 'v'
